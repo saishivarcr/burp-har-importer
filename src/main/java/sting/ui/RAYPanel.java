@@ -124,7 +124,7 @@ public class RAYPanel extends JPanel {
         //
         // Load from HAR format
         //
-        JLabel lblHarFile = new JLabel("Use HAR file you fools.");
+        JLabel lblHarFile = new JLabel("Use HAR file");
         gbc.insets = new Insets(20, 0, 5, 5);
         gbc.gridx = 1;
         gbc.gridy++;

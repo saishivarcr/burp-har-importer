@@ -30,7 +30,7 @@ import burp.IHttpRequestResponse;
 public class RAYtalker implements ITab, IBurpExtender, IContextMenuFactory {
 
     public static String Name = "HAR Import Sitemap";
-    public static String Url = "https://github.com/Dynamic-Mobile-Security/burp-har-importer";
+    public static String Url = "https://github.com/saishivarcr/burp-har-importer";
     public static IBurpExtenderCallbacks callbacks;
     public static RAYPanel panel;
     public static RAYtalker instance;
